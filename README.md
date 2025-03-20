@@ -9,4 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/nathyBekele/Squid-Game/tree/master/0168-excel-sheet-column-title) |
+| [0383-ransom-note](https://github.com/nathyBekele/Squid-Game/tree/master/0383-ransom-note) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/nathyBekele/Squid-Game/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/nathyBekele/Squid-Game/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
