@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/nathyBekele/Squid-Game/tree/master/0168-excel-sheet-column-title) |
 | [0299-bulls-and-cows](https://github.com/nathyBekele/Squid-Game/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/nathyBekele/Squid-Game/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nathyBekele/Squid-Game/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nathyBekele/Squid-Game/tree/master/0383-ransom-note) |
 ## Hash Table
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/nathyBekele/Squid-Game/tree/master/0284-peeking-iterator) |
+## Backtracking
+|  |
+| ------- |
+| [0306-additive-number](https://github.com/nathyBekele/Squid-Game/tree/master/0306-additive-number) |
 <!---LeetCode Topics End-->
