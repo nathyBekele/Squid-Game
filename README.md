@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/nathyBekele/Squid-Game/tree/master/0057-insert-interval) |
 | [0284-peeking-iterator](https://github.com/nathyBekele/Squid-Game/tree/master/0284-peeking-iterator) |
 ## Design
 |  |
