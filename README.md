@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/nathyBekele/Squid-Game/tree/master/0168-excel-sheet-column-title) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nathyBekele/Squid-Game/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/nathyBekele/Squid-Game/tree/master/0057-insert-interval) |
 | [0284-peeking-iterator](https://github.com/nathyBekele/Squid-Game/tree/master/0284-peeking-iterator) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nathyBekele/Squid-Game/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Design
 |  |
 | ------- |
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nathyBekele/Squid-Game/tree/master/0146-lru-cache) |
+## Sorting
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nathyBekele/Squid-Game/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nathyBekele/Squid-Game/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
