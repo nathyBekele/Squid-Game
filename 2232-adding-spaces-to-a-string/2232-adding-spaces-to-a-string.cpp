@@ -2,15 +2,19 @@ class Solution {
 public:
     string addSpaces(string s, vector<int>& spaces) {
         int N = s.size(), S = spaces.size();
-        string result;
-        result.reserve(N + S);
+        string result(N + S, ' ');
 
-        result = s.substr(0, spaces[0]);
-        for (int i = 1; i < S; i++){
-            result += ' ';
-            result += s.substr(spaces[i - 1], spaces[i] - spaces[i - 1]);
+        int i_str = 0, i_space = 0;
+        for (int i = 0; i < N + S; i++){
+            if (i_space < S && spaces[i_space] == i_str){
+                i_space += 1;
+                continue;
+            }
+
+            result[i] = s[i_str++];
+            // cout << result << endl;
         }
 
-        return result + ' ' + s.substr(spaces[S - 1], N - spaces[S - 1]);
+        return result;
     }
 };
