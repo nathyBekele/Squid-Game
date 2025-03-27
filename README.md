@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/nathyBekele/Squid-Game/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nathyBekele/Squid-Game/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nathyBekele/Squid-Game/tree/master/0383-ransom-note) |
+| [2232-adding-spaces-to-a-string](https://github.com/nathyBekele/Squid-Game/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/nathyBekele/Squid-Game/tree/master/0345-reverse-vowels-of-a-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/nathyBekele/Squid-Game/tree/master/2232-adding-spaces-to-a-string) |
 ## Array
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/nathyBekele/Squid-Game/tree/master/0057-insert-interval) |
 | [0284-peeking-iterator](https://github.com/nathyBekele/Squid-Game/tree/master/0284-peeking-iterator) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nathyBekele/Squid-Game/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2232-adding-spaces-to-a-string](https://github.com/nathyBekele/Squid-Game/tree/master/2232-adding-spaces-to-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nathyBekele/Squid-Game/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/nathyBekele/Squid-Game/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nathyBekele/Squid-Game/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/nathyBekele/Squid-Game/tree/master/3227-find-missing-and-repeated-values) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/nathyBekele/Squid-Game/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
