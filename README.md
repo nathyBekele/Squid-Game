@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/nathyBekele/Squid-Game/tree/master/0345-reverse-vowels-of-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/nathyBekele/Squid-Game/tree/master/2232-adding-spaces-to-a-string) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/nathyBekele/Squid-Game/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/nathyBekele/Squid-Game/tree/master/0284-peeking-iterator) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nathyBekele/Squid-Game/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2232-adding-spaces-to-a-string](https://github.com/nathyBekele/Squid-Game/tree/master/2232-adding-spaces-to-a-string) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/nathyBekele/Squid-Game/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nathyBekele/Squid-Game/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/nathyBekele/Squid-Game/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
@@ -68,14 +70,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nathyBekele/Squid-Game/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/nathyBekele/Squid-Game/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nathyBekele/Squid-Game/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Matrix
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nathyBekele/Squid-Game/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/nathyBekele/Squid-Game/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/nathyBekele/Squid-Game/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/nathyBekele/Squid-Game/tree/master/2232-adding-spaces-to-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/nathyBekele/Squid-Game/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Union Find
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/nathyBekele/Squid-Game/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/nathyBekele/Squid-Game/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
